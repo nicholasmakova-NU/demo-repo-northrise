@@ -1,0 +1,1 @@
+This is my first document that I am writing to add to Git
